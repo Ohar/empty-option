@@ -1,0 +1,31 @@
+{
+  "name": "empty-option",
+  "version": "1.0.0",
+  "description": "React component to prevent Firefox to show selected option when no option is selected in fact",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ohar/empty-option.git"
+  },
+  "keywords": [
+    "firefox",
+    "react",
+    "component",
+    "option"
+  ],
+  "author": "Ohar aka Pavel Lysenko <code@ohar.name>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ohar/empty-option/issues"
+  },
+  "homepage": "https://github.com/Ohar/empty-option#readme",
+  "dependencies": {
+    "react": "^15.5.3",
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  }
+}
