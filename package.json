@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Ohar/empty-option#readme",
   "dependencies": {
-    "react": "^15.5.3",
+    "react": "^15.5.3"
   },
   "engines": {
     "node": ">=6.0.0"
